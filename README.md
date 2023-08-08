@@ -1,4 +1,4 @@
-### Olá, Eu sou o Eduardo Viana.
+### Olá! Eu sou o Eduardo Viana.
 
 - 🔭 Hoje trabalho como suporte TI.
 - 💬 Estudando Análise e Desenvolvimento de Sistemas.
